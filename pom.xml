@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.mostafa</groupId>
     <artifactId>spring-pet-clinic</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
     <name>spring-pet-clinic</name>
     <description>Spring pet clinic</description>
 
@@ -47,7 +47,7 @@
 
     </build>
     <scm>
-      <tag>spring-pet-clinic-0.0.3</tag>
+      <tag>spring-pet-clinic-0.0.2</tag>
     <developerConnection>scm:git:https://github.com/RasLGhoul/spring-pet-clinic</developerConnection>
   </scm>
 </project>
